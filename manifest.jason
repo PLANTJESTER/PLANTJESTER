@@ -1,9 +1,9 @@
 {
-    "name": "MOD NAME GOES HERE",
-    "description": "MOD DESCRIPTION GOES HERE",
+    "name": "JESTER'S MOD",
+    "description": "Only one way to learn how to code, and thats fuckaroun and find out",
     "developer":
     {
-        "name": "DEVELOPER NAME GOES HERE"
+        "name": "PLANTJESTER"
     },
     "icons":
     {
@@ -12,7 +12,7 @@
     "manifest_version": 3,
     "mod":
     {
-        "license": "license.txt",
+        "license": "none, go wild, idgaf .txt",
         "payload":
         {
             "background_music":
@@ -133,15 +133,15 @@
                 {
                     "gx_accent":
                     {
-                        "h": 85,
-                        "s": 100,
-                        "l": 72
+                        "h": 131,
+                        "s": 75,
+                        "l": 26
                     },
                     "gx_secondary_base":
                     {
-                        "h": 272,
-                        "s": 64,
-                        "l": 16
+                        "h": 115,
+                        "s": 100,
+                        "l": 4
                     }
                 },
                 "light":
